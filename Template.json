@@ -2,10 +2,10 @@
 "minimumVersion": 1, 
 "packages": [
 {
-"name": "Purgatory Package", 
-"title": "Purgatory", 
+"name": "LolnetPurgatory Package", 
+"title": "LolnetPurgatory", 
 "version": "MODPACKVERSION", 
-"location": "https://www.lolnet.co.nz/modpack/Purgatory.json", 
+"location": "https://www.lolnet.co.nz/modpack/LolnetPurgatory.json", 
 "priority": 1
 }
 ]

@@ -1,6 +1,6 @@
 {
-  "name": "Purgatory Package",
-  "title": "Purgatory",
+  "name": "LolnetPurgatory Package",
+  "title": "LolnetPurgatory",
   "gameVersion": "1.7.10",
   "launch": {
     "flags": []
